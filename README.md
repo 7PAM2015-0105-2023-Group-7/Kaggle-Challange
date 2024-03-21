@@ -7,5 +7,5 @@ This is a is a fictional dataset where the incident happens in the 2912.The Spac
 ## 🚀 About Us
 Our team members are:
 
-Adheeb Hussain, Sanju Joshi Parampil,Keerthana Dayanandan, Milu Paul, Susan Vincent, Shilpa Pakalomattom Francis 
+Adheeb Hussain, Sanju Joshi Parampil, Keerthana Dayanandan, Milu Paul, Susan Vincent, Shilpa Pakalomattom Francis 
 
